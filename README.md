@@ -19,7 +19,9 @@ The game allows the user to play against the computer, with results shown instan
 ## Tech Stack
 - **HTML** – Game structure  
 - **CSS** – Styling and layout  
-- **JavaScript** – Game logic and randomization  
+- **JavaScript** – Game logic and randomization
+
+  #Live Demo: https://shrishti08012004.github.io/Rock_-Paper_Scissor_Game/
 
 ---
 Fun project for learning basic JavaScript interactivity.
